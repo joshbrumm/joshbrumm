@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @joshbrumm
+- 👀 I’m interested in skiing, MTG, and competitive video games.
+- 🌱 I’m currently learning platform architecture.
+- 💞️ I’m looking to collaborate on python and c++ projects.
+- 📫 How to reach me 307-413-140, joshua.brummet@zendesk.com
